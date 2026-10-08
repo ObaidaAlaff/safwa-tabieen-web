@@ -11,7 +11,7 @@
 
 هذه النسخة هي **إعادة بناء كاملة بـ Vue 3** لتطبيق Flutter الأصلي، بنفس التصميم والشاشات والحسابات وعلى نفس قاعدة البيانات، لهدف واحد: **السرعة**. تطبيقا أندرويد وآيفون يبقيان على Flutter.
 
-<p align="center"><img src="docs/screenshots/login.jpg" alt="شاشة الدخول" width="190"></p>
+<p align="center"><img src="screenshots/login.jpg" alt="شاشة الدخول" width="190"></p>
 
 ## لماذا إعادة البناء؟
 
